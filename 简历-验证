@@ -1,10 +1,9 @@
-<h5>HTML是什么，HTML5是什么？</h5>
-<p>HTML超文本标记语言，HTML5是一项标准，并且是不断更新的活的标准</p>
-<h5>HTML元素标签、属性都是什么概念？</h5>
-<p>
-  <head>
+HTML是什么，HTML5是什么？
+HTML超文本标记语言，HTML5是一项标准，并且是不断更新的活的标准
+HTML元素标签、属性都是什么概念？
+<head>
   <title></title>
   <meta lauag='utf-8'>
-  </head>
+</head>
   <body></body>
-</p>
+
